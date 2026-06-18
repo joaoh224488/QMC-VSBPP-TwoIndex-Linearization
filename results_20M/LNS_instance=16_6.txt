@@ -1,0 +1,11 @@
+Items: 2 , 2 , 2 , 1 , 2 , 4 , 1 , 0 , 1 , 0 , 4 , 4 , 2 , 0 , 0 , 3 , 3 , 1 , 0 , 1 , 0 , 0 , 2 , 3 , 3 , 
+Bins: 9 , 6 , 8 , 8 , 0 , 
+Cost: 18304
+time: 0.551167
+nImprovAfterGreedy: 10
+nImprovAfterRandom: 10
+nMigrate: 120960
+nSwap: 84614
+n: 25
+m: 10
+Seed: 45333
