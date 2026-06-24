@@ -1,0 +1,964 @@
+Status: Unknown
+Time: 7200.04
+Valor obtido pela solução: NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[0][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[0][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[0][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[0][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[1][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[1][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[1][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[1][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[2][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[2][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[2][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[2][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[3][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[3][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[3][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[3][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[4][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[4][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[4][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[4][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[5][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[5][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[5][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[5][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[6][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[6][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[6][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[6][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[7][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[7][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[7][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[7][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[8][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[8][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[8][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[8][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[9][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[9][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[9][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[9][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[10][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[10][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[10][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[10][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[11][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[11][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[11][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[11][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[12][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[12][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[12][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[12][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[13][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[13][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[13][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[13][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[14][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[14][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[14][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[14][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[15][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[15][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[15][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[15][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[16][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[16][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[16][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[16][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[17][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[17][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[17][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[17][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[18][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[18][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[18][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[18][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[19][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[19][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[19][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[19][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[20][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[20][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[20][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[20][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[21][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[21][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[21][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[21][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[22][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[22][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[22][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[22][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[23][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[23][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[23][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[23][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[24][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[24][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[24][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+x[24][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[0][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[1][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[2][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][0] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+y[3][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][1] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[0][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][2] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[1][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][3] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[2][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][4] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[3][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][5] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[4][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][6] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[5][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][7] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[6][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][8] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[7][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][9] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[8][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][10] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[9][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][11] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[10][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][12] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[11][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][13] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[12][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][14] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[13][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][15] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[14][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][16] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[15][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][17] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[16][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[17][18] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[17][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[17][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[17][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[17][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[17][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[17][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[18][19] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[18][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[18][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[18][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[18][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[18][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[19][20] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[19][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[19][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[19][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[19][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[20][21] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[20][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[20][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[20][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[21][22] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[21][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[21][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[22][23] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[22][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
+z[23][24] = NA (erro: CPLEX Error  1217: No solution exists.
+)
