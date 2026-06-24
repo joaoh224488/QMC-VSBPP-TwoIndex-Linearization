@@ -251,6 +251,13 @@ void gerarArquivoSaida(IloCplex & cplex, InstanciaInfo & instance, const std::tu
       
             for(int s = i + 1; s < instance.n; s++)
             {
+                // Pares sem custo têm z fixado em 0 — não precisa consultar.
+                if(instance.custosLink[i][s] <= 0)
+                {
+                    arquivo << "z[" << i << "][" << s << "] = 0\n";
+                    continue;
+                }
+
                 try
                 {
                     double value = cplex.getValue(std::get<2>(vars)[i][s]);
@@ -321,13 +328,14 @@ void resolveTwoIndex(InstanciaInfo & instance, bool gerarSaida, int upperBound, 
         }
 
         // z_is => Item i junto do item s.
-        // MELHORIA (7): só criamos a variável z[i][s] para pares com custo de
-        // link POSITIVO. Pares sem custo não contribuem ao objetivo nem geram
-        // restrições úteis, então não precisam de variável.
-        // MELHORIA (3): z passa a ser variável CONTÍNUA em [0,1]. Como z só
-        // aparece com coeficiente negativo numa minimização, o solver sempre
-        // empurra z para o seu limite superior, e Link1/Link2 forçam z a ser
-        // 0/1 nos pontos inteiros. Logo não é necessário declará-la booleana.
+        // MELHORIA (7): só queremos pagar pelas variáveis z dos pares com
+        // custo de link POSITIVO. Em Concert, deixar slots como handle vazio
+        // (IloBoolVar() sem env) gera SEGFAULT quando o array é percorrido,
+        // porque o ponteiro interno é nulo. Por isso criamos o array CHEIO
+        // (todas as variáveis reais) e FIXAMOS EM 0 as que não têm custo.
+        // O presolve do CPLEX elimina variáveis fixadas, então o modelo
+        // efetivo fica do mesmo tamanho que se elas não existissem — sem
+        // risco de ponteiro nulo e sem quebrar a assinatura da saída.
         IloArray<IloBoolVarArray> z(env, instance.n);
         for(int i = 0; i < instance.n; i++)
         {
@@ -335,11 +343,14 @@ void resolveTwoIndex(InstanciaInfo & instance, bool gerarSaida, int upperBound, 
 
             for(int s = i + 1; s < instance.n; s++)
             {
-                if(instance.custosLink[i][s] > 0)
+                char nome[32];
+                snprintf(nome, sizeof(nome), "z_%d_%d", i, s);
+                z[i][s].setName(nome);
+
+                if(instance.custosLink[i][s] <= 0)
                 {
-                    char nome[32];
-                    snprintf(nome, sizeof(nome), "z_%d_%d", i, s);
-                    z[i][s].setName(nome);
+                    // Variável sem utilidade: fixa em 0 (presolve remove).
+                    model.add(z[i][s] == 0);
                 }
             }
         }
